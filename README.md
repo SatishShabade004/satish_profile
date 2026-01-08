@@ -140,18 +140,24 @@ My experience spans **end-to-end ML pipelines**, **LLM-powered applications**, *
 
 ## 📊 GitHub Analytics
 
+<div align="center">
+
+<!-- GitHub Profile Summary Cards -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatishShabade004&theme=github_dark)
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SatishShabade004&show_icons=true&theme=dark" alt="Satish's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SatishShabade004&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SatishShabade004&theme=github_dark" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SatishShabade004&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SatishShabade004&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SatishShabade004&theme=github_dark" alt="Productive Time" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatishShabade004&theme=dark" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SatishShabade004&theme=dark&hide_border=true)
+
+</div>
 
 ---
 
@@ -183,11 +189,10 @@ I’m open to:
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=SatishShabade004&label=Profile%20Views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=SatishShabade004&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge"
     alt="Profile Views"
   />
 </p>
-
 
 <p align="center">
   <i>Focused on building reliable, interpretable, and production-oriented data and ML systems.</i>
