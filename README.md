@@ -69,9 +69,10 @@ I specialize in **bridging the gap between raw data and actionable intelligence*
 ---
 
 ## 💼 Featured Projects
+*Click on any project to see detailed impact, tech stack, and key features*
 
-<details >
-<summary><b>🤖 End-to-End RAG Document QA System</b></summary>
+<details>
+<summary><b>🤖 End-to-End RAG Document QA System</b> | <a href="https://github.com/SatishShabade004/end-to-end-rag-document-qa">View Code →</a></summary>
 
 > A production-grade Retrieval-Augmented Generation system enabling natural language queries over unstructured documents.
 
@@ -89,12 +90,10 @@ I specialize in **bridging the gap between raw data and actionable intelligence*
 - Source citation and relevance scoring
 - Multi-document querying
 
-🔗 [View Project →](https://github.com/SatishShabade004/end-to-end-rag-document-qa)
-
 </details>
 
 <details>
-<summary><b>📄 Multilingual Invoice Information Extraction</b></summary>
+<summary><b>📄 Multilingual Invoice Information Extraction</b> | <a href="https://github.com/SatishShabade004/multilingual-invoice-information-extraction">View Code →</a></summary>
 
 > Automated extraction pipeline for structured data from complex, multilingual invoices using OCR and NLP.
 
@@ -112,12 +111,10 @@ I specialize in **bridging the gap between raw data and actionable intelligence*
 - Validation and error handling
 - REST API for integration
 
-🔗 [View Project →](https://github.com/SatishShabade004/multilingual-invoice-information-extraction)
-
 </details>
 
 <details>
-<summary><b>🎬 Movie Recommendation System</b></summary>
+<summary><b>🎬 Movie Recommendation System</b> | <a href="https://github.com/SatishShabade004/Movie-Recommendation-System">View Code →</a></summary>
 
 > Content-based recommendation system that suggests similar movies using metadata-driven similarity modeling.
 
@@ -133,12 +130,10 @@ I specialize in **bridging the gap between raw data and actionable intelligence*
 - Feature engineering on large-scale metadata
 - Interactive UI with movie posters
 
-🔗 [View Project →](https://github.com/SatishShabade004/Movie-Recommendation-System)
-
 </details>
 
 <details>
-<summary><b>💳 Intelligent Loan Eligibility Prediction</b></summary>
+<summary><b>💳 Intelligent Loan Eligibility Prediction</b> | <a href="https://github.com/SatishShabade004/Loan_Eligibility_Prediction-">View Code →</a></summary>
 
 > End-to-end ML pipeline for automated loan approval with risk assessment and decision support.
 
@@ -155,8 +150,6 @@ I specialize in **bridging the gap between raw data and actionable intelligence*
 - Ensemble model approach
 - Risk scoring and explanation
 - Model monitoring dashboard
-
-🔗 [View Project →](https://github.com/SatishShabade004/Loan_Eligibility_Prediction-)
 
 </details>
 
