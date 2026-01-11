@@ -238,28 +238,30 @@ I specialize in **bridging the gap between raw data and actionable intelligence*
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SatishShabade004&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SatishShabade004&theme=radical" alt="Most Commit Language" />
-</p>
+### 📈 Performance Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SatishShabade004&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SatishShabade004&theme=radical" alt="Productive Time" />
+  <img height="180em" src="https://githubreadmestats-gules.vercel.app/api?username=SatishShabade004&theme=radical&show_icons=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=ffffff" alt="GitHub Stats" />
+  <img height="180em" src="https://githubreadmestats-gules.vercel.app/api/top-langs/?username=SatishShabade004&theme=radical&hide_border=true&layout=compact&bg_color=0d1117&title_color=667eea&text_color=ffffff" alt="Top Languages" />
 </p>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=SatishShabade004&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</a>
+---
 
+### 🔥 GitHub Streak
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=SatishShabade004&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
+</p>
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatishShabade004&theme=radical)
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SatishShabade004&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+### 📊 Contribution Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SatishShabade004&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff" alt="Contribution Graph" width="100%"/>
 
 </div>
-
 ---
 
 ## 🎯 Current Focus Areas
