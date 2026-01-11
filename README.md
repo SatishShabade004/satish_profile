@@ -269,25 +269,26 @@ I specialize in **bridging the gap between raw data and actionable intelligence*
 ## 🎯 Current Focus Areas
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#667eea','primaryTextColor':'#fff','primaryBorderColor':'#667eea','lineColor':'#764ba2','secondaryColor':'#f093fb','tertiaryColor':'#4facfe','noteBkgColor':'#43e97b','noteTextColor':'#fff'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'background':'#000000','primaryColor':'#667eea','primaryTextColor':'#fff','primaryBorderColor':'#667eea','lineColor':'#764ba2','secondaryColor':'#f093fb','tertiaryColor':'#4facfe','noteBkgColor':'#43e97b','noteTextColor':'#fff','mainBkg':'#000000','secondBkg':'#000000','tertiaryBkg':'#000000','clusterBkg':'#000000'}}}%%
 mindmap
-  root((My Focus))
+  root((MY FOCUS))
     LLM Systems
       Agentic Workflows
       RAG Optimization
       Prompt Engineering
+    Machine Learning
+      Classical Algorithms
+      Ensemble Methods
+      Model Evaluation
+    Deep Learning
+      NLP/CV
+      ANN/CNN/RNN
+      Transformers 
     MLOps
       Model Deployment
       Monitoring & Logging
       CI/CD for ML
-    Feature Engineering
-      Feature Creation & Selection
-      Leakage Prevention
-      Data Quality & Validation
-    System Design
-      Scalable Architectures
-      Performance Optimization
-      Production Best Practices
+      ML System Design
 
 ```
 ---
