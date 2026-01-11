@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satishshabade)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satishshabade004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SatishShabade004)
+[![Resume](https://img.shields.io/badge/Resume-Download-667eea?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/user-attachments/files/24554555/satish_resume_ai.pdf)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SatishShabade004&label=Profile%20Views&color=0e75b6&style=flat)
 
@@ -69,7 +70,7 @@ I specialize in **bridging the gap between raw data and actionable intelligence*
 
 ## 💼 Featured Projects
 
-<details open>
+<details >
 <summary><b>🤖 End-to-End RAG Document QA System</b></summary>
 
 > A production-grade Retrieval-Augmented Generation system enabling natural language queries over unstructured documents.
@@ -92,7 +93,7 @@ I specialize in **bridging the gap between raw data and actionable intelligence*
 
 </details>
 
-<details open>
+<details>
 <summary><b>📄 Multilingual Invoice Information Extraction</b></summary>
 
 > Automated extraction pipeline for structured data from complex, multilingual invoices using OCR and NLP.
@@ -115,7 +116,7 @@ I specialize in **bridging the gap between raw data and actionable intelligence*
 
 </details>
 
-<details open>
+<details>
 <summary><b>🎬 Movie Recommendation System</b></summary>
 
 > Content-based recommendation system that suggests similar movies using metadata-driven similarity modeling.
@@ -262,6 +263,7 @@ I specialize in **bridging the gap between raw data and actionable intelligence*
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatishShabade004&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff" alt="Contribution Graph" width="100%"/>
 
 </div>
+
 ---
 
 ## 🎯 Current Focus Areas
